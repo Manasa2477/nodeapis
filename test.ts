@@ -1,1 +1,1 @@
-this is bad text 
+this is a good test 
