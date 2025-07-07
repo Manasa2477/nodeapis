@@ -6,6 +6,9 @@ const PORT = 3000
 app.use('/users',userRoutes)
 console.log("jdfjfkjdfbkfjb");
 
+console.log("fbajkbfkjbfkj");
+
+
 app.listen(PORT,()=>{
   console.log(PORT)
 })
