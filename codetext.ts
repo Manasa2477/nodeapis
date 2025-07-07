@@ -1,0 +1,10 @@
+it is a bad way
+it is a bad way
+it is a bad way
+it is a bad way
+it is a bad way
+it is a bad way
+it is a bad way
+it is a bad way
+it is a bad way
+it is a bad way
